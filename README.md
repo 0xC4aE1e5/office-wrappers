@@ -18,5 +18,5 @@ Office Wrappers is a project to package the online versions of Office to exe. Th
 
 ## Building Requirements (for Windows)
 
-Latest version of Go (in PATH)
-Resource Hacker (in PATH)
+- Latest version of Go (in PATH)
+- Resource Hacker (in PATH)
